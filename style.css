@@ -1,0 +1,62 @@
+body{
+    margin-top: -1%;
+    background-color: #333;
+}
+header {
+    width: 100%;
+    height: 100px;
+    background-color: rgb(82, 82, 9);
+    align-items: center;
+    position: fixed;
+  }
+  
+  p {
+    padding: 130px 0px;
+    height: 500px;
+  }
+  
+  #title {
+    margin-right: auto;
+  }
+  
+  #menu-item {
+    background-color: rgb(66, 66, 38);
+    list-style: none;
+    display: inline-block;
+    margin-right: 2%;
+    font-size: 150%;
+    color: #FFF;
+  }
+
+  #Link{
+    
+    background-color: rgb(66, 66, 38) ;
+  }
+  #Image{
+    margin: auto;
+    display: block;
+    
+  }
+
+  #GamesTitle{
+    background-color: #999;
+    font-size: 310%;
+  }
+
+  #ASImg{
+    list-style: none;
+    display: inline-block;
+    width: 250px;
+    height: 250px;
+    font-size: 110%;
+  }
+
+#Link{
+    color: #FFF;
+}
+h4{
+    margin-bottom: 2%;
+    background-color: #999;
+    margin-top: -2%;
+    font-size: 150%;
+}
